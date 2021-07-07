@@ -1,0 +1,16 @@
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\bin\Debug\net5.0\whileForEach.exe
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\bin\Debug\net5.0\whileForEach.deps.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\bin\Debug\net5.0\whileForEach.runtimeconfig.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\bin\Debug\net5.0\whileForEach.runtimeconfig.dev.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\bin\Debug\net5.0\whileForEach.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\bin\Debug\net5.0\ref\whileForEach.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\bin\Debug\net5.0\whileForEach.pdb
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\obj\Debug\net5.0\whileForEach.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\obj\Debug\net5.0\whileForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\obj\Debug\net5.0\whileForEach.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\obj\Debug\net5.0\whileForEach.AssemblyInfo.cs
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\obj\Debug\net5.0\whileForEach.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\obj\Debug\net5.0\whileForEach.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\obj\Debug\net5.0\ref\whileForEach.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\obj\Debug\net5.0\whileForEach.pdb
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\whileForEach\obj\Debug\net5.0\whileForEach.genruntimeconfig.cache

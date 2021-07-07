@@ -1,0 +1,16 @@
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\bin\Debug\net5.0\Pratikler.exe
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\bin\Debug\net5.0\Pratikler.deps.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\bin\Debug\net5.0\Pratikler.runtimeconfig.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\bin\Debug\net5.0\Pratikler.runtimeconfig.dev.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\bin\Debug\net5.0\Pratikler.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\bin\Debug\net5.0\ref\Pratikler.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\bin\Debug\net5.0\Pratikler.pdb
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\obj\Debug\net5.0\Pratikler.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\obj\Debug\net5.0\Pratikler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\obj\Debug\net5.0\Pratikler.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\obj\Debug\net5.0\Pratikler.AssemblyInfo.cs
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\obj\Debug\net5.0\Pratikler.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\obj\Debug\net5.0\Pratikler.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\obj\Debug\net5.0\ref\Pratikler.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\obj\Debug\net5.0\Pratikler.pdb
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\obj\Debug\net5.0\Pratikler.genruntimeconfig.cache

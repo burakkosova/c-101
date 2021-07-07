@@ -1,0 +1,16 @@
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\bin\Debug\net5.0\loops.exe
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\bin\Debug\net5.0\loops.deps.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\bin\Debug\net5.0\loops.runtimeconfig.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\bin\Debug\net5.0\loops.runtimeconfig.dev.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\bin\Debug\net5.0\loops.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\bin\Debug\net5.0\ref\loops.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\bin\Debug\net5.0\loops.pdb
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\obj\Debug\net5.0\loops.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\obj\Debug\net5.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\obj\Debug\net5.0\loops.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\obj\Debug\net5.0\loops.AssemblyInfo.cs
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\obj\Debug\net5.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\obj\Debug\net5.0\loops.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\obj\Debug\net5.0\ref\loops.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\obj\Debug\net5.0\loops.pdb
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\loops\obj\Debug\net5.0\loops.genruntimeconfig.cache

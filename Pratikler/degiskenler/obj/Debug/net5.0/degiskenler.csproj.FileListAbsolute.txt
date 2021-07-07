@@ -1,0 +1,16 @@
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.exe
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.deps.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.dev.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\bin\Debug\net5.0\ref\degiskenler.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\bin\Debug\net5.0\degiskenler.pdb
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfo.cs
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\obj\Debug\net5.0\ref\degiskenler.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.pdb
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\degiskenler\obj\Debug\net5.0\degiskenler.genruntimeconfig.cache

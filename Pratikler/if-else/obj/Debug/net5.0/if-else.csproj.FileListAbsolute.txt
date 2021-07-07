@@ -1,0 +1,16 @@
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\bin\Debug\net5.0\if-else.exe
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\bin\Debug\net5.0\if-else.deps.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\bin\Debug\net5.0\if-else.runtimeconfig.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\bin\Debug\net5.0\if-else.runtimeconfig.dev.json
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\bin\Debug\net5.0\if-else.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\bin\Debug\net5.0\ref\if-else.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\bin\Debug\net5.0\if-else.pdb
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\obj\Debug\net5.0\if-else.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\obj\Debug\net5.0\if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\obj\Debug\net5.0\if-else.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\obj\Debug\net5.0\if-else.AssemblyInfo.cs
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\obj\Debug\net5.0\if-else.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\obj\Debug\net5.0\if-else.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\obj\Debug\net5.0\ref\if-else.dll
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\obj\Debug\net5.0\if-else.pdb
+C:\Users\burak\Desktop\Programming Resources\kodluyoruz\c-101\Pratikler\if-else\obj\Debug\net5.0\if-else.genruntimeconfig.cache
